@@ -1,2 +1,2 @@
-console.log("Prueba");
-console.log("Se agrega los cambios a master");
+console.log("Prueba"); 
+console.log("Se agrega los cambios a master"); 
